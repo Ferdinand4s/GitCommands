@@ -10,7 +10,7 @@
 
 **git commit**:
 **git commit -m "_[comment]_"**: Зафиксировать изменения
-**git commit -a -m "_[comment]_"**:
+**git commit -a -m "_[comment]_"**: Зафиксировать все отслеживаемые файлы без индексации
 
 **git clone _[url]_**: клонировать удалённый репозиторий
 
