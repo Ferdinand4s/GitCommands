@@ -8,7 +8,9 @@
 
 **git config**: ДОРАБОТАТЬ
 
+**git commit**:
 **git commit -m "_[comment]_"**: Зафиксировать изменения
+**git commit -a -m "_[comment]_"**:
 
 **git clone _[url]_**: клонировать удалённый репозиторий
 
